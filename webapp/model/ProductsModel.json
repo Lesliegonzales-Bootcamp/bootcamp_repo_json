@@ -1,0 +1,64 @@
+{
+	"products": [
+		{
+			"ProductID": 1,
+			"ProductName": "iPhone SE 64GB(Midnight)",
+			"SupplierID": 1,
+			"CategoryID": 1,
+			"QuantityPerUnit": "60 Boxes",
+			"UnitPrice": "29990.00",
+			"UnitsInStock": 39,
+			"UnitsOnOrder": 0,
+			"ReorderLevel": 10,
+			"Discontinued": false
+		},
+		{
+			"ProductID": 2,
+			"ProductName": "iPhone 14 128GB(Midnight)",
+			"SupplierID": 1,
+			"CategoryID": 1,
+			"QuantityPerUnit": "30 Boxes",
+			"UnitPrice": "39990.00",
+			"UnitsInStock": 17,
+			"UnitsOnOrder": 40,
+			"ReorderLevel": 25,
+			"Discontinued": false
+		},
+		{
+			"ProductID": 3,
+			"ProductName": "iPhone 14 Plus 2TB(White)",
+			"SupplierID": 1,
+			"CategoryID": 2,
+			"QuantityPerUnit": "15 Boxes",
+			"UnitPrice": "44990.00",
+			"UnitsInStock": 30,
+			"UnitsOnOrder": 70,
+			"ReorderLevel": 25,
+			"Discontinued": false
+		},
+		{
+			"ProductID": 4,
+			"ProductName": "iPhone 17 Plus Pro 2TB(Black Tinted)",
+			"SupplierID": 2,
+			"CategoryID": 2,
+			"QuantityPerUnit": "100 Boxes",
+			"UnitPrice": "80990.00",
+			"UnitsInStock": 53,
+			"UnitsOnOrder": 999,
+			"ReorderLevel": 0,
+			"Discontinued": false
+		},
+		{
+			"ProductID": 5,
+			"ProductName": "iPhone 15 32GB(White Tinted)",
+			"SupplierID": 2,
+			"CategoryID": 2,
+			"QuantityPerUnit": "0 Boxes",
+			"UnitPrice": "15990.00",
+			"UnitsInStock": 0,
+			"UnitsOnOrder": 0,
+			"ReorderLevel": 0,
+			"Discontinued": true
+		}
+	]
+}
